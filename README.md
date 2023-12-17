@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Chrome Extension](https://github.com/yusuf9119/Chrome-Extension)
+- 🔭 I’m currently working on [live football lineups and players](https://github.com/yusuf9119/live-football-lineups-and-players)
 
 - 🌱 I’m currently learning **DSA problems & GCP**
 
