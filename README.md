@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yusuf Ali</h1>
-<h3 align="center">A dedicated CS student curious about exploring a wide range of tech tools!</h3>
+<h3 align="center">A dedicated CS Graduate curious about exploring a wide range of tech tools!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf9119&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf9119" /> </p>
 
 
-
-- 🔭 I’m currently working on [live football lineups and players](https://github.com/yusuf9119/live-football-lineups-and-players)
-
-- 🌱 I’m currently learning **DSA problems & GCP**
-
-- 💬 Ask me about **Python,Java,React,NodeJS,ExpressJS**
 
 - 📫 How to reach me **yusufa9119@gmail.com**
 
